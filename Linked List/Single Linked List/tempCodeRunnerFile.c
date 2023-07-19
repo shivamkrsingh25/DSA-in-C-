@@ -1,0 +1,11 @@
+struct Node *create_list(struct Node head);
+// void display(struct Node *head);
+// void count(struct Node *head);
+// void search(struct Node *head,int data);
+// struct Node *addatbeg(struct Node *head,int data);
+// struct Node *addatend(struct Node *head,int data);
+// struct Node *addafter(struct Node *head,int data,int item);
+// struct Node *addbefore(struct Node *head,int data,int item );
+// struct Node *addatpos(struct Node *head,int data,int pos);
+// struct Node *del(struct node *head,int data);
+// struct Node *reverse(struct Node *head);
